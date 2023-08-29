@@ -2,7 +2,7 @@ body{
   text-align: center;
   font-family: 'Happy Monkey', cursive;
   background-color: #a2d2ff;
-  background: linear-gradient(#a2d2ff,#a2d2ff,white);
+  background: linear-gradient(#a2d2ff,#a2d2ff,pink);
   color: white;
   margin: 0 0 40px 0;
 }
